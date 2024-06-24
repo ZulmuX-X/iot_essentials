@@ -45,3 +45,4 @@ Aqui se suben los ejercicios del curso IoT
 - [ X ] Iniciar documentaciom
 - [ ] Incorporar codigo del LED
 - [ ] Ver grabaciones de IoT
+- [ ] Hacer practicas
